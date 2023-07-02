@@ -1,4 +1,4 @@
-package p242;
+package p0242;
 
 import java.util.HashMap;
 import java.util.Map;
